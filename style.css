@@ -1,0 +1,29 @@
+/* body {
+    min-height: 3200px;
+} */
+
+
+.jumbotron{
+    /* padding: 2rem 1rem; */
+    padding-top: 6rem;
+    background-color: #e2edff;
+
+}
+
+
+#projects {
+     background-color: #e2edff;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: #e2edff;
+}
+
+section {
+    padding-top: 5rem;
+}
